@@ -1,0 +1,2 @@
+# AdvocAI
+AI Legal assistant
