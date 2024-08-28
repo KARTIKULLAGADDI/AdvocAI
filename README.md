@@ -76,5 +76,5 @@ For any questions or support, please contact:
 
 - **Kartik Ullagaddi**
 - **Email**: [kartikullagaddi@gmail.com](kartikullagaddi@gmail.com)
-- **LinkedIn**: [Kartik Ullagaddi](www.linkedin.com/in/kartik-ullagaddi-80b88429b)
+- **LinkedIn**: [Kartik Ullagaddi](https://www.linkedin.com/in/kartikullagaddi)
 - **GitHub**: [Kartik Ullagaddi](https://github.com/KARTIKULLAGADDI)
