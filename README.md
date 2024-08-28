@@ -75,6 +75,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or support, please contact:
 
 - **Kartik Ullagaddi**
-- **Email**: [kartikullagaddi@gmail.com](kartikullagaddi@gmail.com)
+- **Email**: [kartikullagaddi@gmail.com](mailto:kartikullagaddi@gmail.com)
 - **LinkedIn**: [Kartik Ullagaddi](https://www.linkedin.com/in/kartikullagaddi)
 - **GitHub**: [Kartik Ullagaddi](https://github.com/KARTIKULLAGADDI)
