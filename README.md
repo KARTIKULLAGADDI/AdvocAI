@@ -38,7 +38,7 @@ To run AdvocAI locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/advocai.git
+   git clone https://github.com/KARTIKULLAGADDI/advocai.git
    cd advocai
    ```
 
